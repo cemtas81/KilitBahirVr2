@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="tr_project_title"><![CDATA[Kilitbahir kalesi]]></data>
+
+
+
+  <data name="tr_pano10_title"><![CDATA[Giriş]]></data>
+  <data name="tr_spotpoint276_tooltip"><![CDATA[Sarı Kule]]></data>
+  <data name="tr_spotpoint475_tooltip"><![CDATA[Kale İç Kısım 1]]></data>
+  <data name="tr_spotpoint544_tooltip"><![CDATA[Sarı Kule Üst Kısım]]></data>
+
+
+  <data name="tr_pano12_title"><![CDATA[Kale İç 1]]></data>
+  <data name="tr_spotpoint484_tooltip"><![CDATA[Kale İç Kısım 2]]></data>
+  <data name="tr_spotpoint485_tooltip"><![CDATA[Kale Girişi]]></data>
+  <data name="tr_spotpoint542_tooltip"><![CDATA[Kale İç Kısım 5]]></data>
+  <data name="tr_spotpoint543_tooltip"><![CDATA[Kale İç Kısım 4]]></data>
+  <data name="tr_spotpoint545_tooltip"><![CDATA[Sarı Kule Üst Kısım 2]]></data>
+  <data name="tr_spotpoint546_tooltip"><![CDATA[Sarı Kule Üst Kısım 1]]></data>
+
+
+  <data name="tr_pano14_title"><![CDATA[Kale İç 2]]></data>
+  <data name="tr_spotpoint487_tooltip"><![CDATA[Kale İç Kısım 1]]></data>
+  <data name="tr_spotpoint490_tooltip"><![CDATA[Kale İç Kısım 3]]></data>
+  <data name="tr_spotpoint547_tooltip"><![CDATA[Kale İç Kısım 5]]></data>
+  <data name="tr_spotpoint548_tooltip"><![CDATA[Kale İç Kısım 4]]></data>
+  <data name="tr_spotpoint549_tooltip"><![CDATA[Giriş]]></data>
+  <data name="tr_spotpoint550_tooltip"><![CDATA[Kale İç Kısım 6]]></data>
+
+
+  <data name="tr_pano16_title"><![CDATA[Kale İç 3]]></data>
+  <data name="tr_spotpoint491_tooltip"><![CDATA[Kale İç Kısım 2]]></data>
+  <data name="tr_spotpoint492_tooltip"><![CDATA[Kale İç Kısım 4]]></data>
+  <data name="tr_spotpoint497_tooltip"><![CDATA[Kale İç Kısım 6]]></data>
+  <data name="tr_spotpoint551_tooltip"><![CDATA[Giriş]]></data>
+  <data name="tr_spotpoint552_tooltip"><![CDATA[Sarı Kule Üst Kısım 2]]></data>
+
+
+  <data name="tr_pano18_title"><![CDATA[Kale İç 4]]></data>
+  <data name="tr_spotpoint493_tooltip"><![CDATA[Kale İç Kısım 5]]></data>
+  <data name="tr_spotpoint494_tooltip"><![CDATA[Kale İç Kısım 3]]></data>
+
+
+  <data name="tr_pano20_title"><![CDATA[Kale İç 5]]></data>
+  <data name="tr_spotpoint495_tooltip"><![CDATA[Kale İç Kısım 4]]></data>
+  <data name="tr_spotpoint496_tooltip"><![CDATA[Kale İç Kısım 3]]></data>
+  <data name="tr_spotpoint573_tooltip"><![CDATA[Sarı Kule Üst Kısım 1]]></data>
+  <data name="tr_spotpoint574_tooltip"><![CDATA[Kale İç Kısım 6]]></data>
+
+
+  <data name="tr_pano22_title"><![CDATA[Kale İç 6]]></data>
+  <data name="tr_spotpoint498_tooltip"><![CDATA[Kale İç Kısım 4]]></data>
+  <data name="tr_spotpoint499_tooltip"><![CDATA[Kale İç Kısım 19]]></data>
+  <data name="tr_spotpoint500_tooltip"><![CDATA[Anakule Kapısı]]></data>
+
+
+  <data name="tr_pano24_title"><![CDATA[Kale İç 7]]></data>
+  <data name="tr_spotpoint503_tooltip"><![CDATA[Kale İç Kısım 8]]></data>
+  <data name="tr_spotpoint504_tooltip"><![CDATA[Kale İç Kısım 6]]></data>
+  <data name="tr_spotpoint541_tooltip"><![CDATA[Kale İç Kısım 21]]></data>
+
+
+  <data name="tr_pano26_title"><![CDATA[Kale İç 8]]></data>
+  <data name="tr_spotpoint505_tooltip"><![CDATA[Piri Reis]]></data>
+  <data name="tr_spotpoint506_tooltip"><![CDATA[Kale İç Kısım 9]]></data>
+  <data name="tr_spotpoint507_tooltip"><![CDATA[Kale Kapısı]]></data>
+
+
+  <data name="tr_pano28_title"><![CDATA[Kale İç 9]]></data>
+  <data name="tr_spotpoint512_tooltip"><![CDATA[Kale İç Kısım 8]]></data>
+  <data name="tr_spotpoint513_tooltip"><![CDATA[Ana Kule Giriş]]></data>
+  <data name="tr_spotpoint514_tooltip"><![CDATA[Kale İç Kısım 10]]></data>
+  <data name="tr_spotpoint515_tooltip"><![CDATA[Kale İç Kısım 11]]></data>
+
+
+  <data name="tr_pano30_title"><![CDATA[Kale İç 10]]></data>
+  <data name="tr_spotpoint516_tooltip"><![CDATA[Kale İç Kısım 9]]></data>
+  <data name="tr_spotpoint517_tooltip"><![CDATA[Kale İç Kısım 8]]></data>
+  <data name="tr_spotpoint518_tooltip"><![CDATA[Ana Kule Giriş]]></data>
+  <data name="tr_spotpoint519_tooltip"><![CDATA[Kale İç Kısım 11]]></data>
+
+
+  <data name="tr_pano32_title"><![CDATA[Kale İç 11]]></data>
+  <data name="tr_spotpoint520_tooltip"><![CDATA[Kale İç Kısım 12]]></data>
+  <data name="tr_spotpoint521_tooltip"><![CDATA[Kale İç Kısım 10]]></data>
+  <data name="tr_spotpoint522_tooltip"><![CDATA[Kale İç Kısım 9]]></data>
+
+
+  <data name="tr_pano34_title"><![CDATA[Kale İç 13]]></data>
+  <data name="tr_spotpoint525_tooltip"><![CDATA[Kale İç Kısım 12]]></data>
+  <data name="tr_spotpoint527_tooltip"><![CDATA[Kale İç Kısım 14]]></data>
+  <data name="tr_spotpoint529_tooltip"><![CDATA[Kale İç Kısım 15]]></data>
+  <data name="tr_spotpoint530_tooltip"><![CDATA[Kale İç Kısım 20]]></data>
+
+
+  <data name="tr_pano36_title"><![CDATA[Kale İç 12]]></data>
+  <data name="tr_spotpoint523_tooltip"><![CDATA[Kale İç Kısım 13]]></data>
+  <data name="tr_spotpoint524_tooltip"><![CDATA[Kale İç Kısım 11]]></data>
+
+
+  <data name="tr_pano38_title"><![CDATA[Kale iç 20]]></data>
+  <data name="tr_spotpoint531_tooltip"><![CDATA[Kale İç Kısım 21]]></data>
+  <data name="tr_spotpoint532_tooltip"><![CDATA[Kale İç Kısım 14]]></data>
+  <data name="tr_spotpoint533_tooltip"><![CDATA[Kale İç Kısım 13]]></data>
+
+
+  <data name="tr_pano40_title"><![CDATA[Kale İç 14]]></data>
+  <data name="tr_spotpoint564_tooltip"><![CDATA[Kale İç Kısım 16]]></data>
+  <data name="tr_spotpoint565_tooltip"><![CDATA[Kale İç Kısım 12]]></data>
+
+
+  <data name="tr_pano42_title"><![CDATA[Kale İç 15]]></data>
+
+
+  <data name="tr_pano44_title"><![CDATA[Kale İç 16]]></data>
+  <data name="tr_spotpoint562_tooltip"><![CDATA[Kale İç Kısım 17]]></data>
+  <data name="tr_spotpoint563_tooltip"><![CDATA[Kale İç Kısım 14]]></data>
+  <data name="tr_spotpoint567_tooltip"><![CDATA[Kale İç Kısım 15]]></data>
+
+
+  <data name="tr_pano46_title"><![CDATA[Kale İç 17]]></data>
+  <data name="tr_spotpoint559_tooltip"><![CDATA[Kale İç Kısım 16]]></data>
+  <data name="tr_spotpoint560_tooltip"><![CDATA[Kale İç Kısım 18]]></data>
+
+
+  <data name="tr_pano48_title"><![CDATA[Kale İç 18]]></data>
+  <data name="tr_spotpoint556_tooltip"><![CDATA[Kale İç Kısım 19]]></data>
+  <data name="tr_spotpoint557_tooltip"><![CDATA[Kale İç Kısım 17]]></data>
+  <data name="tr_spotpoint558_tooltip"><![CDATA[Kale İç Kısım 6]]></data>
+
+
+  <data name="tr_pano50_title"><![CDATA[Kale İç 19]]></data>
+
+
+  <data name="tr_pano52_title"><![CDATA[Kale İç 21]]></data>
+  <data name="tr_spotpoint535_tooltip"><![CDATA[Kale İç Kısım 7]]></data>
+  <data name="tr_spotpoint538_tooltip"><![CDATA[Kale İç Kısım 6]]></data>
+
+
+  <data name="tr_pano54_title"><![CDATA[Sarı Kule İç]]></data>
+  <data name="tr_spotpoint477_tooltip"><![CDATA[Kale Girişi]]></data>
+  <data name="tr_spotpicture2657_tooltip"><![CDATA[KOSOVA, HATVAN,SZOLNOK VE BELGRAD KALELERİ]]></data>
+  <data name="tr_spotpicture2658_tooltip"><![CDATA[NOVINGARD, SZİGET, VAREDERO VE VİSEGRAD KALELERİ]]></data>
+  <data name="tr_spotpicture2659_tooltip"><![CDATA[HIRVATİSTAN'DAKİ KALELER; PRESOV, LİKA KALELERİ]]></data>
+  <data name="tr_spotpolygon2851_tooltip"><![CDATA[SİLAHLAR]]></data>
+  <data name="tr_spotpolygon2852_tooltip"><![CDATA[OSMANLI SİKKESİ ( 20.YY)]]></data>
+  <data name="tr_spotpolygon2853_tooltip"><![CDATA[PARA TERAZİSİ (16-17 YY)]]></data>
+
+
+  <data name="tr_pano56_title"><![CDATA[Sarı Kule Üst 1]]></data>
+  <data name="tr_spotpoint479_tooltip"><![CDATA[Sarı Kule Alt Kısım]]></data>
+  <data name="tr_spotpoint480_tooltip"><![CDATA[Sarı Kule Üst Kısım 2]]></data>
+
+
+  <data name="tr_pano58_title"><![CDATA[Sarı Kule Üst 2]]></data>
+  <data name="tr_spotpoint482_tooltip"><![CDATA[Sarı Kule Alt Kısım]]></data>
+  <data name="tr_spotpoint483_tooltip"><![CDATA[Sarı Kule Üst Kısım]]></data>
+  <data name="tr_spotpoint553_tooltip"><![CDATA[Kale İç Kısım 5]]></data>
+  <data name="tr_spotpoint554_tooltip"><![CDATA[Kale İç Kısım 3]]></data>
+  <data name="tr_spotpoint555_tooltip"><![CDATA[Ana Kule Kapısı]]></data>
+
+
+  <data name="tr_pano60_title"><![CDATA[Piri Reis]]></data>
+  <data name="tr_spotpoint509_tooltip"><![CDATA[Kale İç Kısım 8]]></data>
+  <data name="tr_spotvideo510_tooltip"><![CDATA[Piri Reis Belgeseli]]></data>
+  <data name="tr_spotvideo832_tooltip"><![CDATA[Piri Reis Haritası Animasyonu]]></data>
+  <data name="tr_spotpolygon2855_tooltip"><![CDATA[PUSULA]]></data>
+  <data name="tr_spotpolygon2856_tooltip"><![CDATA[USTURLAP]]></data>
+  <data name="tr_spotpolygon2857_tooltip"><![CDATA[Piri Reis Eser 3]]></data>
+  <data name="tr_spotpolygon2858_tooltip"><![CDATA[UZUN PERGEL]]></data>
+
+
+  <data name="tr_pano62_title"><![CDATA[Ana Kule Zemin]]></data>
+  <data name="tr_spotpoint867_tooltip"><![CDATA[Çıkış]]></data>
+  <data name="tr_spotpoint889_tooltip"><![CDATA[Ana Kule Kat 1 Açı 1]]></data>
+  <data name="tr_spotpoint890_tooltip"><![CDATA[Ana Kule Kat 1 Açı 1]]></data>
+  <data name="tr_spotpolygon2859_tooltip"><![CDATA[SİKKE]]></data>
+  <data name="tr_spotpolygon2860_tooltip"><![CDATA[SİKKE]]></data>
+  <data name="tr_spotpolygon2861_tooltip"><![CDATA[SİKKE]]></data>
+
+
+  <data name="tr_pano64_title"><![CDATA[Ana Kule Kat 1 Açı 1]]></data>
+  <data name="tr_spotpoint868_tooltip"><![CDATA[Ana Kule Kat 1 Açı 2]]></data>
+  <data name="tr_spotpoint869_tooltip"><![CDATA[Ana Kule Kat 2 Açı 1]]></data>
+  <data name="tr_spotpolygon2862_tooltip"><![CDATA[BARUTLUKLAR  (19-20 YY)]]></data>
+  <data name="tr_spotpolygon2863_tooltip"><![CDATA[KOLÇAK]]></data>
+  <data name="tr_spotpolygon2864_tooltip"><![CDATA[mİĞFER (16-17. YY), ZIRH GÖMLEĞİ(16-17. YY), DİZÇEK (16-17. YY)]]></data>
+  <data name="tr_spotpolygon2865_tooltip"><![CDATA[KALKAN (16-17. YY)]]></data>
+
+
+  <data name="tr_pano68_title"><![CDATA[Ana Kule Kat 1 Açı 2]]></data>
+  <data name="tr_spotpoint870_tooltip"><![CDATA[Ana Kule Kat 1 Açı 2]]></data>
+  <data name="tr_spotpoint871_tooltip"><![CDATA[Ana Kule Kat 2 Açı 1]]></data>
+
+
+  <data name="tr_pano70_title"><![CDATA[Ana Kule Kat 2 Açı 2]]></data>
+  <data name="tr_spotpoint874_tooltip"><![CDATA[Ana Kule Kat 2 Açı 1]]></data>
+  <data name="tr_spotpoint875_tooltip"><![CDATA[Ana Kule Kat 3 Açı 1]]></data>
+
+
+  <data name="tr_pano72_title"><![CDATA[Ana Kule Kat 2 Açı 1]]></data>
+  <data name="tr_spotpoint872_tooltip"><![CDATA[Ana Kule Kat 3 Açı 1]]></data>
+  <data name="tr_spotpoint873_tooltip"><![CDATA[Ana Kule Kat 2 Açı 2]]></data>
+  <data name="tr_spotpolygon2867_tooltip"><![CDATA[SAHAN (20 YY)]]></data>
+  <data name="tr_spotpolygon2868_tooltip"><![CDATA[BARDAK(20. YY), KAPAKLI SAHAN (20. YY)]]></data>
+  <data name="tr_spotpolygon2869_tooltip"><![CDATA[SAHAN]]></data>
+  <data name="tr_spotpolygon2870_tooltip"><![CDATA[OSMANLI  BARDAKLARI (20 .YY)]]></data>
+
+
+  <data name="tr_pano74_title"><![CDATA[Ana Kule Kat 3 Açı 1]]></data>
+  <data name="tr_spotpoint876_tooltip"><![CDATA[Ana Kule Kat 4 Açı 1]]></data>
+  <data name="tr_spotpoint877_tooltip"><![CDATA[Ana Kule Kat 3 Açı 2]]></data>
+  <data name="tr_spotpolygon2872_tooltip"><![CDATA[PARA TERAZİSİ]]></data>
+  <data name="tr_spotpolygon2873_tooltip"><![CDATA[EL KANTARI  (19.YY)]]></data>
+  <data name="tr_spotpolygon2874_tooltip"><![CDATA[PARA TERAZİSİ]]></data>
+
+
+  <data name="tr_pano76_title"><![CDATA[Ana Kule Kat 3 Açı 2]]></data>
+  <data name="tr_spotpoint878_tooltip"><![CDATA[Ana Kule Kat 3 Açı 1]]></data>
+  <data name="tr_spotpoint879_tooltip"><![CDATA[Ana Kule Kat 4 Açı 1]]></data>
+
+
+  <data name="tr_pano78_title"><![CDATA[Ana Kule Kat 4 Açı 1]]></data>
+  <data name="tr_spotpoint880_tooltip"><![CDATA[Ana Kule Kat 4 Açı 2]]></data>
+  <data name="tr_spotpoint881_tooltip"><![CDATA[Ana Kule Kat 5 Açı 1]]></data>
+  <data name="tr_spotpolygon2876_tooltip"><![CDATA[PAZUBENT (19.YY), ASKER DUA KİTABI (20. YY)]]></data>
+  <data name="tr_spotpolygon2877_tooltip"><![CDATA[4. Kat Eser 2]]></data>
+  <data name="tr_spotpolygon2878_tooltip"><![CDATA[İBRİK (20. YY), ŞİFALI TAS (20. YY)]]></data>
+
+
+  <data name="tr_pano80_title"><![CDATA[Ana Kule Kat 4 Açı 2]]></data>
+  <data name="tr_spotpoint882_tooltip"><![CDATA[Ana Kule Kat 4 Açı 1]]></data>
+  <data name="tr_spotpoint883_tooltip"><![CDATA[Ana Kule Kat 5 Açı 1]]></data>
+
+
+  <data name="tr_pano82_title"><![CDATA[Ana Kule Kat 5 Açı 1]]></data>
+  <data name="tr_spotpoint884_tooltip"><![CDATA[Ana Kule Kat 5 Açı 2]]></data>
+  <data name="tr_spotpoint885_tooltip"><![CDATA[Çıkış]]></data>
+  <data name="tr_spotpolygon2880_tooltip"><![CDATA[5. Kat Eser 1]]></data>
+  <data name="tr_spotpolygon2881_tooltip"><![CDATA[5. Kat Eser 2]]></data>
+  <data name="tr_spotpolygon2882_tooltip"><![CDATA[5. Kat Eser 3]]></data>
+  <data name="tr_spotpolygon2883_tooltip"><![CDATA[5. Kat Eser 4]]></data>
+  <data name="tr_spotpolygon2884_tooltip"><![CDATA[5. Kat Eser 5]]></data>
+  <data name="tr_spotpolygon2885_tooltip"><![CDATA[OSMANLI BALTA TAŞI (19. YY)]]></data>
+
+
+  <data name="tr_pano84_title"><![CDATA[Ana Kule Kat 5 Açı 2]]></data>
+  <data name="tr_spotpoint886_tooltip"><![CDATA[Ana Kule Kat 5 Açı 1]]></data>
+  <data name="tr_spotpoint887_tooltip"><![CDATA[Çıkış]]></data>
+  <data name="tr_spotpolygon2886_tooltip"><![CDATA[5. Kat Eser 6]]></data>
+  <data name="tr_spotpolygon2887_tooltip"><![CDATA[5. Kat Eser 7]]></data>
+  <data name="tr_spotpolygon2888_tooltip"><![CDATA[5. Kat Eser 8]]></data>
+  <data name="tr_spotpolygon2889_tooltip"><![CDATA[5. Kat Eser 9]]></data>
+  <data name="tr_spotpolygon2890_tooltip"><![CDATA[5. Kat Eser 10]]></data>
+  <data name="tr_spotpolygon2891_tooltip"><![CDATA[5. Kat Eser 11]]></data>
+
+
+
+
+	<data name="tr_project_floor_title"><![CDATA[Kilitbahir kalesi]]></data>
+	<data name="tr_spotmap965_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap966_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap967_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap968_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap969_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap970_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap971_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap972_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap973_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap974_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap975_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap976_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap977_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap978_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap979_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap980_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap981_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap982_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap983_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap984_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap985_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap986_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap987_tooltip"><![CDATA[]]></data>
+	<data name="tr_spotmap988_tooltip"><![CDATA[]]></data>
+
+
+  <data name="tr_webvrbuttontooltip"><![CDATA[]]></data>
+  <data name="tr_eventsPluginstartautorotationaction102615javascriptcalljsfunctioncall"><![CDATA[]]></data>
+
+
+  <data name="tr_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="tr_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="tr_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="tr_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="tr_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="tr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="tr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="tr_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="tr_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="tr_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="tr_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="tr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="tr_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="tr_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="tr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="tr_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="tr_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="tr_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="tr_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="tr_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="tr_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="tr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="tr_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="tr_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="tr_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="tr_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="tr_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="tr_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="tr_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="tr_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
